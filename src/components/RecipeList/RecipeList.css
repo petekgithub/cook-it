@@ -5,7 +5,9 @@
   max-width: 1200px;
   margin: 40px auto;
 }
-
+.error {
+  color: #fff;
+}
 .recipe-list .card {
   background: rgb(240, 226, 255);
   color: #333;
