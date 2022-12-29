@@ -6,7 +6,7 @@
 
 .create label span {
   margin-top: 30px;
-  color: rgb(219, 183, 228);
+  color: rgb(169, 120, 209);
   margin: 30px 0 30px;
 }
 .create p {
@@ -20,7 +20,7 @@
   color: #fff;
   padding: 8px 20px;
   border-radius: 4px;
-  background-color: rgb(110, 68, 209);
+  background-color: rgb(162, 129, 238);
   cursor: pointer;
   text-decoration: none;
   margin: 20px auto;
